@@ -1,10 +1,10 @@
 # Restaurant Reviews: Stage 1
 
-## Project Overview: Stage 1
+### Project Overview: Stage 1
 
 Stage 1 of this project is a static website that is updated to a more dynamic responsive website that also is accessible for a screen reader user.  Lastly, a service worker is added to cache static assets of the website to create an offline experience of the website. 
 
-## Instructions to Run Website
+### Instructions to Run Website
 
 1. Download the repository and access the root folder in a terminal on your computer.
 

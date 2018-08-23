@@ -175,7 +175,7 @@ nav h1 a {
   max-width: 100%;
   min-width: 100%;
 }
-#restaurants-list li h1 {
+#restaurants-list li h2 {
   color: #00a680;
   font-family: Arial,sans-serif;
   font-size: 2.5em;
